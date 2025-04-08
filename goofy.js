@@ -12,5 +12,5 @@ button.addEventListener('click', () => {
 })
 
 window.addEventListener("load", (event) => {
-    setInterval(, 5000);
+    //setInterval(, 5000);
 });
