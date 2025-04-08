@@ -9,7 +9,7 @@ setTimeout(() => {
 
 button.addEventListener('click', () => {
     jsConfetti.addConfetti()
-})
+});
 
 window.addEventListener("load", (event) => {
     //setInterval(, 5000);
